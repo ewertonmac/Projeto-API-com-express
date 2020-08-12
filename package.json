@@ -1,0 +1,31 @@
+{
+  "name": "expressapi",
+  "version": "1.0.0",
+  "description": "API Node JS utilizando o framework express",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewertonmac/Projeto-API-com-express.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "API",
+    "Express"
+  ],
+  "author": "Ewerton Maciel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewertonmac/Projeto-API-com-express/issues"
+  },
+  "homepage": "https://github.com/ewertonmac/Projeto-API-com-express#readme",
+  "dependencies": {
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
